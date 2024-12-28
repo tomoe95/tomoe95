@@ -23,10 +23,10 @@
 
 ---
 <div align="left">
-  ### :woman_technologist: About Me:
-  I am a university student from Japan :jp:
+### :woman_technologist: About Me:
+I am a university student from Japan :jp:
 
-  - 🌱 I’m currently learning Python, Java, and Javascript.
-  - 💭 In my free time, I develop my project which related to mental health.
-  - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomoe0905)
+- 🌱 I’m currently learning Python, Java, and Javascript.
+- 💭 In my free time, I develop my project which related to mental health.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomoe0905)
 </div>
