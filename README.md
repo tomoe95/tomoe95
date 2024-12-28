@@ -52,3 +52,12 @@ I am a university student from Japan :jp:
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" width="40" height="40"/>&nbsp;
   </div>
 </div>
+
+---
+
+<div align="left">
+  <h2>
+    🔥  My status :
+  </h2>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tomoe0905&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
