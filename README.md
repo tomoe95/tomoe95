@@ -20,6 +20,10 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI3OHlram5zNWJjYzl3d285MHZvOXgzNW83aDdoODc5bm50aHVheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :woman_technologist: About Me:
 <!--
 **Tomoe0905/Tomoe0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
