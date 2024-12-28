@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRrcm9iYnJ5b2RreDU4cXNweG9kaDBobnJ2ZzQ4aHE0cHZ4a2swaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRrcm9iYnJ5b2RreDU4cXNweG9kaDBobnJ2ZzQ4aHE0cHZ4a2swaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/tomoe0905">
