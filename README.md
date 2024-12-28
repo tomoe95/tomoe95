@@ -60,5 +60,5 @@ I am a university student from Japan :jp:
     🔥  My status :
   </h2>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tomoe0905&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tomoe0905&theme=dark&card_width=500&card_height=200)](https://git.io/streak-stats)
 </div>
