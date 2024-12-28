@@ -2,9 +2,13 @@
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRrcm9iYnJ5b2RreDU4cXNweG9kaDBobnJ2ZzQ4aHE0cHZ4a2swaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/>
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/tomoe0905">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/tomoe__95">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
 
 </div>
