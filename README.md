@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRrcm9iYnJ5b2RreDU4cXNweG9kaDBobnJ2ZzQ4aHE0cHZ4a2swaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/>
   
@@ -12,8 +10,12 @@
     </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Tomoe0905&style=flat-square&color=green" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Tomoe0905&style=flat-square&color=green" alt="" width="50px"/>
 
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **Tomoe0905/Tomoe0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
