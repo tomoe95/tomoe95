@@ -23,7 +23,9 @@
 
 ---
 <div align="left">
-### :woman_technologist: About Me:
+  <h2>
+    :woman_technologist: About Me:
+  </h2>
 I am a university student from Japan :jp:
 
 - 🌱 I’m currently learning Python, Java, and Javascript.
