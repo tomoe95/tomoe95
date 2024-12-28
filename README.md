@@ -61,4 +61,5 @@ I am a university student from Japan :jp:
   </h2>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tomoe0905&theme=dark&card_width=500&card_height=200)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoe0905&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
