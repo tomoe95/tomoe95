@@ -12,7 +12,7 @@
     </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Tomoe0905"/>
+<img src="https://komarev.com/ghpvc/?username=Tomoe0905&style=flat-square&color=pink" alt=""/>
 
 <!--
 **Tomoe0905/Tomoe0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
