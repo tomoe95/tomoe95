@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="file:///Users/tomoe/Downloads/Hi%20%F0%9F%91%8B%20I%E2%80%99m%20Tomoe%20).gif" width="250"/>
+  <img src="https://github.com/Tomoe0905/gifs_readme/blob/main/Untitled%20design%20(1).gif" width="250"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/tomoe0905">
