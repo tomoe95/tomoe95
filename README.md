@@ -16,9 +16,9 @@
 
 ---
 <div align="left">
-  <h2>
+  <h1>
     :woman_technologist: About Me:
-  </h2>
+  </h1>
 
   <h3>
     I am a university student from Japan :jp:
