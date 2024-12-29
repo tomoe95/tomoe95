@@ -19,7 +19,11 @@
   <h2>
     :woman_technologist: About Me:
   </h2>
-I am a university student from Japan :jp:
+
+  <h3>
+    I am a university student from Japan :jp:
+  </h3>
+
 
 - 🌱  I’m currently learning Python, Java, and Javascript.
 - 💭  In my free time, I develop my project which related to mental health.
