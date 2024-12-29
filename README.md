@@ -61,6 +61,9 @@
     🔥  My status :
   </h1>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tomoe0905&theme=dark&card_width=500&card_height=200)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoe0905&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Tomoe0905&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tomoe0905" width="700">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tomoe0905&theme=jolly" width="700">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoe0905&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 </div>
