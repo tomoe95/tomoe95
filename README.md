@@ -65,5 +65,5 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tomoe0905&theme=jolly" width="700">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoe0905&layout=compact&theme=jolly&width="700")](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoe0905&layout=compact&theme=jolly" width="700">
 </div>
