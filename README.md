@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Tomoe0905/gifs_readme/blob/main/Untitled%20design%20(1).gif"/>
+  <img src="https://github.com/Tomoe0905/Tomoe0905/blob/main/intro.gif"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/tomoe0905">
