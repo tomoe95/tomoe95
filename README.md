@@ -25,7 +25,7 @@
   </h3>
 
 
-- 🌱  I’m currently learning Python, Java, and Javascript.
+- 🌱  I’m currently learning **Python**, **Java**, and **Javascript**.
 - 💭  In my free time, I develop my project which related to mental health.
 - 📫  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomoe0905)
 </div>
@@ -57,9 +57,9 @@
 ---
 
 <div align="left">
-  <h2>
+  <h1>
     🔥  My status :
-  </h2>
+  </h1>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tomoe0905&theme=dark&card_width=500&card_height=200)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoe0905&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
