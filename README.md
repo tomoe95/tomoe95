@@ -63,7 +63,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=tomoe95&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for tomoe95" width="700">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tomoe95&theme=jolly" width="350"> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tomoe95&theme=jolly" width="350">&nbsp;
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomoe95&layout=compact&theme=jolly" width="350">
 </div>
