@@ -5,9 +5,6 @@
     <a href="https://www.linkedin.com/in/tomoe0905">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/tomoe__95">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Tomoe0905&style=flat-square&color=green" alt="" width="150px"/>
